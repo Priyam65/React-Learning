@@ -1,0 +1,32 @@
+{
+  "name": "react_js",
+  "version": "1.0.0",
+  "description": "React learning",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel biuld index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Priyam65/React-Learning.git"
+  },
+  "keywords": [],
+  "author": "Priyam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Priyam65/React-Learning/issues"
+  },
+  "homepage": "https://github.com/Priyam65/React-Learning#readme",
+  "devDependencies": {
+    "parcel": "^2.11.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "broswersList": [
+    "last 2 versions"
+  ]
+}
