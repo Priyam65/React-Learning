@@ -1,0 +1,63 @@
+{
+  "info": {
+    "id": "744877",
+    "name": "Amma Pastries",
+    "cloudinaryImageId": "80d3024589ed6aefeb518b810af4d4cd",
+    "locality": "Srs Complex",
+    "areaName": "Marathahalli",
+    "costForTwo": "₹300 for two",
+    "cuisines": ["Bakery"],
+    "avgRating": 3.8,
+    "parentId": "388842",
+    "avgRatingString": "3.8",
+    "totalRatingsString": "500+",
+    "promoted": true,
+    "adTrackingId": "cid=13005271~p=0~adgrpid=13005271#ag1~mp=SWIGGY_IN~bl=FOOD~aet=RESTAURANT~aeid=744877~eid=453b285a-998f-4dc9-9577-03341fdaa7bc~srvts=1714328728580~collid=45995",
+    "sla": {
+      "deliveryTime": 19,
+      "lastMileTravel": 1.7,
+      "serviceability": "SERVICEABLE",
+      "slaString": "15-20 mins",
+      "lastMileTravelString": "1.7 km",
+      "iconType": "ICON_TYPE_EMPTY"
+    },
+    "availability": {
+      "nextCloseTime": "2024-04-29 01:00:00",
+      "opened": true
+    },
+    "badges": {},
+    "isOpen": true,
+    "aggregatedDiscountInfoV2": {},
+    "type": "F",
+    "badgesV2": {
+      "entityBadges": {
+        "textBased": {},
+        "imageBased": {},
+        "textExtendedBadges": {}
+      }
+    },
+    "differentiatedUi": {
+      "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+      "differentiatedUiMediaDetails": {
+        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+        "lottie": {},
+        "video": {}
+      }
+    },
+    "reviewsSummary": {},
+    "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+    "restaurantOfferPresentationInfo": {},
+    "externalRatings": {
+      "aggregatedRating": {
+        "rating": "--"
+      }
+    },
+    "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+  },
+  "analytics": {},
+  "cta": {
+    "link": "swiggy://menu?restaurant_id=744877",
+    "text": "RESTAURANT_MENU",
+    "type": "DEEPLINK"
+  }
+}
